@@ -88,13 +88,13 @@ if "self_healing_report" not in st.session_state:
 # Header
 # ==============================================================================
 
-st.title("🤖 Self-Healing Agentic AI ML Pipeline")
+st.title("🤖 Self-Healing Agentic ML Pipeline using Automated Monitoring and Adaptive Retraining")
 
 st.markdown("---")
 
 st.markdown(
     """
-Welcome to the **Self-Healing Agentic AI ML Pipeline**.
+Welcome to the **Self-Healing Agentic ML Pipeline**.
 
 This application demonstrates an end-to-end intelligent ML system capable of:
 
